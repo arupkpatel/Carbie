@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">Carbie</string>
+    <string name="north">North</string>
+    <string name="south">South</string>
+    <string name="east">East</string>
+    <string name="west">West</string>
+    <string name="name">Name :</string>
+    <string name="reg">RegNo :</string>
+    <string name="type">Type :</string>
+    <string name="emission">Emission :</string>
+    <string name="exception">Exception :</string>
+    <string name="password">Password :</string>
+    <string name="lin">Login</string>
+    <string name="username">admin</string>
+    <string name="user_password">12345678</string>
+    <string name="fal">False</string>
+    <string name="tru">True</string>
+
+</resources>
